@@ -47,7 +47,7 @@ You can find me on the web through the following channels:
 
 <!-- - Personal Website: [Link to your personal website] -->
 - LinkedIn: [[vishal-giri]](https://www.linkedin.com/in/vishal-giri-833180175/)
-- Twitter: [Your Twitter handle]
+<!-- - Twitter: [Your Twitter handle] -->
 - Email: [vishalgiri197.gmail.com]
 
 Feel free to reach out if you have any questions or would like to connect!
